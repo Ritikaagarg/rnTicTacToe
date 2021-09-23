@@ -145,7 +145,6 @@
 				2E59835A478E4BA1B7B8C992 /* Pods-ticTacToeMobile-ticTacToeMobileTests.debug.xcconfig */,
 				6FAE2E530A9FBB42653F7A7A /* Pods-ticTacToeMobile-ticTacToeMobileTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
